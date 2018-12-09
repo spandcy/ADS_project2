@@ -1,0 +1,12 @@
+name: school
+title: school
+username:
+account: apdatascience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 498813
+bundleId: 1634977
+url: https://apdatascience.shinyapps.io/school/
+when: 1539194085.46764
+asMultiple: FALSE
+asStatic: FALSE
